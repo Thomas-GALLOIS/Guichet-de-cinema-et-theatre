@@ -1,2 +1,2 @@
 # Guichet-de-cinema-et-theatre
-PHP vanilla
+Appli en HP vanilla pour générer des tickets de cinéma et de théatre
